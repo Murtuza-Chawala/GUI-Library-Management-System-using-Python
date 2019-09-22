@@ -1,5 +1,5 @@
 # GUI-Library-Management-System-using-Python
-A basic library management system built using python having a simple and clean UI built using tkinter with all the basic functionalities that are required in a system.
+#### A basic library management system built using python having a simple and clean UI built using tkinter with all the basic functionalities that are required in a system.
 
 
 ### The GUI of the system
